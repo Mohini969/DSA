@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohini969/DSA/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/Mohini969/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohini969/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Mohini969/DSA/tree/master/0013-roman-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohini969/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohini969/DSA/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mohini969/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
