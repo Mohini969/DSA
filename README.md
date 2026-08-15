@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohini969/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/Mohini969/DSA/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
