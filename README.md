@@ -61,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1158-market-analysis-i](https://github.com/Mohini969/DSA/tree/master/1158-market-analysis-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Mohini969/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
