@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohini969/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mohini969/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohini969/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Mohini969/DSA/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Mohini969/DSA/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Mohini969/DSA/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohini969/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mohini969/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mohini969/DSA/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1158-market-analysis-i](https://github.com/Mohini969/DSA/tree/master/1158-market-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mohini969/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mohini969/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
