@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohini969/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mohini969/DSA/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Mohini969/DSA/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Mohini969/DSA/tree/master/1927-sum-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Mohini969/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
