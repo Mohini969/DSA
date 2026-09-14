@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mohini969/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Mohini969/DSA/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Mohini969/DSA/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/Mohini969/DSA/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohini969/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohini969/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohini969/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohini969/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mohini969/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
