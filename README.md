@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohini969/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohini969/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohini969/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mohini969/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohini969/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohini969/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohini969/DSA/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mohini969/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mohini969/DSA/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/Mohini969/DSA/tree/master/1927-sum-game) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Mohini969/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohini969/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/Mohini969/DSA/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohini969/DSA/tree/master/3498-reverse-degree-of-a-string) |
