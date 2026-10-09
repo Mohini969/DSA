@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mohini969/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mohini969/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Mohini969/DSA/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Mohini969/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Mohini969/DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Mohini969/DSA/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohini969/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mohini969/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Mohini969/DSA/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
